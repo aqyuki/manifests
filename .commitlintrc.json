@@ -2,7 +2,7 @@
   "prompt": {
     "alias": {},
     "useEmoji": true,
-    "scopes": ["misc", "dev"],
+    "scopes": ["misc", "dev", "app"],
     "allowCustomScopes": false,
     "allowEmptyScopes": false,
     "upperCaseSubject": true,
